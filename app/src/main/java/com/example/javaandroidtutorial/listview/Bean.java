@@ -1,4 +1,4 @@
-package com.example.javaandroidtutorial;
+package com.example.javaandroidtutorial.listview;
 
 public class Bean {
 

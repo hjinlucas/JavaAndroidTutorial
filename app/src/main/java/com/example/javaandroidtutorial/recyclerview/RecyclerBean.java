@@ -1,4 +1,4 @@
-package com.example.javaandroidtutorial;
+package com.example.javaandroidtutorial.recyclerview;
 
 public class RecyclerBean {
     String name;

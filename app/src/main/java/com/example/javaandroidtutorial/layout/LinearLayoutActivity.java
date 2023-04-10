@@ -1,10 +1,12 @@
-package com.example.javaandroidtutorial;
+package com.example.javaandroidtutorial.layout;
 
 import android.app.AppComponentFactory;
 import android.os.Bundle;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.javaandroidtutorial.R;
 
 public class LinearLayoutActivity extends AppCompatActivity {
     @Override

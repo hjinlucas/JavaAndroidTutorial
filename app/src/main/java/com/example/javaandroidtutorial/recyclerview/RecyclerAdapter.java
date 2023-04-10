@@ -1,4 +1,4 @@
-package com.example.javaandroidtutorial;
+package com.example.javaandroidtutorial.recyclerview;
 
 import android.content.Context;
 import android.view.View;
@@ -7,6 +7,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.javaandroidtutorial.R;
 
 import java.util.List;
 

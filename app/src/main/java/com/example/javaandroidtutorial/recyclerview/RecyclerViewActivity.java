@@ -1,14 +1,13 @@
-package com.example.javaandroidtutorial;
+package com.example.javaandroidtutorial.recyclerview;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
-import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 
 import android.os.Bundle;
 import android.util.Log;
-import android.widget.LinearLayout;
+
+import com.example.javaandroidtutorial.R;
 
 import java.util.ArrayList;
 import java.util.List;
